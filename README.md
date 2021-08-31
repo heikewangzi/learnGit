@@ -9,3 +9,4 @@ Creating a new branch is quick & simple.
 命令git checkout -- readme.txt意思就是，把readme.txt文件在工作区的修改全部撤销
 ， git checkout -- readme.txt
 Git同样告诉我们，用命令git reset HEAD <file>可以把暂存区的修改撤销掉（unstage），重新放回工作区 git reset HEAD readme.txt
+11
